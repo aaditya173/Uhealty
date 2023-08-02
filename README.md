@@ -1,2 +1,4 @@
 # Uhealty
-simple website in my fist hackathon
+Simple website in my first national level hackathon.
+The project is on the health care.
+This is not connecced to the database.
