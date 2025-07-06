@@ -55,7 +55,7 @@ To run this project locally:
 If you'd like to connect or have feedback, feel free to reach out:
 
 - GitHub: [aaditya173](https://github.com/aaditya173)
-- Email: [adityakld13@example.com]
+- Email: [adityakld13@gmail.com]
 
 ---
 
